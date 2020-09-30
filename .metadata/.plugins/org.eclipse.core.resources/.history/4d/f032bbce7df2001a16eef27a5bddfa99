@@ -1,0 +1,9 @@
+package com.wellsfargo.swmd;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+
+public class BeanDefinitionConf {
+
+}

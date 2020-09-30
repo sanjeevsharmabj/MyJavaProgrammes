@@ -1,0 +1,19 @@
+
+Aug 20, 2020 19:44:13.738 NEW SESSION
+Aug 20, 2020 19:44:13.739 [5168:6380:0820/194413.736:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 20, 2020 20:06:18.345 [668:7520:0820/200618.344:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2020 20:06:46.223 [668:7520:0820/200646.223:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Aug 21, 2020 15:36:57.396 NEW SESSION
+Aug 21, 2020 15:36:57.396 [6644:7304:0821/153657.362:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2020 15:37:25.436 [6644:7304:0821/153725.436:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2020 15:38:23.395 [6644:7304:0821/153823.395:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2020 15:39:52.356 [6644:7304:0821/153952.356:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2020 15:42:47.564 [6644:7304:0821/154247.564:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2020 15:48:39.874 [6644:7304:0821/154839.874:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2020 16:12:37.568 [6644:7304:0821/161237.568:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Aug 22, 2020 20:32:49.820 NEW SESSION
+Aug 22, 2020 20:32:49.820 [9784:10612:0822/203249.760:ERROR:data_type_manager_impl.cc(475)] Autofill Wallet datatype error was encountered: Backend failed to download type.
+Aug 22, 2020 21:29:54.64 [5952:5148:0822/212954.063:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 22, 2020 21:37:09.284 [5952:5148:0822/213709.284:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106

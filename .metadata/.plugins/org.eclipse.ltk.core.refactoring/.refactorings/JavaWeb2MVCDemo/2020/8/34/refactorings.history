@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.wellsfargo.fsd.javaweb2.model&apos; to &apos;com.wellsfargo.fsd.jw2.model&apos;&#x0D;&#x0A;- Original project: &apos;JavaWeb2MVCDemo&apos;&#x0D;&#x0A;- Original element: &apos;JavaWeb2MVCDemo/src/com.wellsfargo.fsd.javaweb2.model&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaWeb2MVCDemo/src/com.wellsfargo.fsd.jw2.model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.wellsfargo.fsd.javaweb2.model&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.wellsfargo.fsd.javaweb2.model" name="com.wellsfargo.fsd.jw2.model" qualified="false" references="true" stamp="1597563671091" textual="false" version="1.0"/>
+</session>

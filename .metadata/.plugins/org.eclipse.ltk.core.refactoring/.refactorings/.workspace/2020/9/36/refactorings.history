@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jpa-hibernate&apos; to &apos;jpa-hibernate-demo1&apos;" description="Rename resource &apos;jpa-hibernate&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/jpa-hibernate" name="jpa-hibernate-demo1" stamp="1599209247238" updateReferences="true"/>
+</session>

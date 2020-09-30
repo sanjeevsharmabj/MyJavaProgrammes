@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\MyJavaProgrammes\spring-web-mvc-demo1\pom.xml"/>
+			<item value="E:\MyJavaProgrammes\spring-web-mvc-demo1"/>
+			<item value="E:\MyJavaProgrammes\CoronaPreventionKit\WebContent\listProductsPage.jsp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.wellsfargo.fsd"/>
+		</list>
+		<list key="name">
+			<item value="spring-web-mvc-demo2"/>
+			<item value="spring-web-mvc-demo1"/>
+			<item value="springcoredemo-Xml"/>
+			<item value="jpa-hibernate-demo1"/>
+			<item value="Testing Demo"/>
+		</list>
+		<list key="artifactId">
+			<item value="spring-web-mvc-demo2"/>
+			<item value="spring-web-mvc-demo1"/>
+			<item value="springcoredemo-Xml"/>
+			<item value="jpa-hibernate"/>
+			<item value="testing-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.wellsfargo.fsd"/>
+			<item value="com.wellsfargo.fsd.coronakit"/>
+			<item value="com.wellsfargo.fsd.lms"/>
+		</list>
+		<list key="name">
+			<item value="CoronaPreventionKit"/>
+			<item value="LoanManagementPortal"/>
+			<item value="JavaWeb2MVCDemo3"/>
+			<item value="JavaWeb2MVCDemo"/>
+			<item value="JavaWeb1"/>
+			<item value="JavaWeb"/>
+			<item value="JavaWeb2"/>
+		</list>
+		<list key="artifactId">
+			<item value="CoronaPreventionKit"/>
+			<item value="LoanManagementPortal"/>
+			<item value="JavaWeb2MVCDemo3"/>
+			<item value="JavaWeb2MVCDemo"/>
+			<item value="java-web-1"/>
+			<item value="Java-Web"/>
+			<item value="Java-Web-1"/>
+			<item value="JavaWeb2"/>
+			<item value="JavaWeb1"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

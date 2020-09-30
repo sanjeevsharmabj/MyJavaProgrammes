@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;newProduct.jsp&apos; to &apos;JavaWeb1&apos;" description="Move &apos;newProduct.jsp&apos; to &apos;JavaWeb1&apos;" destination="/JavaWeb1" element1="/CoronaPreventionKit/WebContent/newProduct.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1597954448746" updateReferences="true"/>
+</session>

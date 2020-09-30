@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="7">
+    <list key="modules" value0="JavaWeb1::org.eclipse.jst.jee.server:JavaWeb1::jst.web::3.1" value1="JavaWeb3MVCDemo2::org.eclipse.jst.jee.server:JavaWeb3MVCDemo2::jst.web::3.1" value2="CoronaPreventionKit::org.eclipse.jst.jee.server:CoronaPreventionKit::jst.web::3.1" value3="LoanManagementPortal::org.eclipse.jst.jee.server:LoanManagementPortal::jst.web::3.1" value4="CoronaKit-Management-Portal::org.eclipse.jst.jee.server:CoronaKit-Management-Portal::jst.web::3.1" value5="spring-web-mvc-demo1::org.eclipse.jst.jee.server:spring-web-mvc-demo1::jst.web::3.0" value6="spring-web-mvc-demo2::org.eclipse.jst.jee.server:spring-web-mvc-demo2::jst.web::3.0"/>
+  </server>
+</servers>

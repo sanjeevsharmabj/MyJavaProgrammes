@@ -1,0 +1,27 @@
+INDEX VERSION 1.131
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4025084803.index
+\JavaWeb2\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3408308854.index
+\JavaWebMVCAssign\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2859141863.index
+\JavaWeb3MVCDemo2\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\218354946.index
+\CoronaKit-Management-Portal\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2557950323.index
+\JavaWeb1\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1374336952.index
+\CoronaPreventionKit\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1917082382.index
+\CoronaPreventionKit\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4046548886.index
+\spring-web-mvc-demo2\src\main\java
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1369206584.index
+\JavaWeb2MVCDemo\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1200177847.index
+\LoanManagementPortal\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4025380893.index
+\CoronaPreventionKit\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2148120662.index
+\JavaWeb1\src
+E:\MyJavaProgrammes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2278839979.index
+\spring-web-mvc-demo1\src\main\java

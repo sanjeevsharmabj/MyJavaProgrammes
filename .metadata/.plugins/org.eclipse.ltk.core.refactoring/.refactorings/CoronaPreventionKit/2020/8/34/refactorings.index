@@ -1,0 +1,38 @@
+1597850412712	Move 'index.jsp' to 'WebContent'
+1597852190274	Copy file
+1597862081209	Delete element
+1597862592227	Delete element
+1597864617833	Rename package 'com.wellsfargo.fsd.model'
+1597866296251	Delete element
+1597866301609	Delete element
+1597866478696	Delete element
+1597866567627	Delete element
+1597867265249	Delete element
+1597911418144	Move 'editProduct.jsp' to 'WebContent'
+1597914626993	Rename type 'CovidProdKitFrontEnd'
+1597923358907	Delete element
+1597923406453	Delete element
+1597938148600	Delete element
+1597938153068	Delete element
+1597938158003	Delete element
+1597938163529	Delete element
+1597938169375	Delete element
+1597938177102	Delete element
+1597938745706	Rename package 'com.wellsfargo.fsd.controller'
+1597938789638	Rename package 'com.wellsfargo.fsd.cpvcontroller'
+1597938804968	Rename package 'com.wellsfargo.fsd.dao'
+1597938843077	Rename package 'com.wellsfargo.fsd.entity'
+1597938858287	Rename package 'com.wellsfargo.fsd.exception'
+1597938873124	Rename package 'com.wellsfargo.fsd.service'
+1597954003002	Delete element
+1597954465464	Move 'newProduct.jsp' to 'WebContent'
+1597998751339	Move 'showProducts.jsp' to 'WebContent'
+1598007662979	Rename compilation unit 'CovidProdKitAdmin.java'
+1598020259709	Delete element
+1598026577916	Delete element
+1598031322366	Delete element
+1598036029119	Delete element
+1598044804278	Delete element
+1598091933369	Move file
+1598092046604	Move 'header.jsp' to 'WebContent'
+1598131989615	Delete element

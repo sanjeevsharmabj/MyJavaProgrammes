@@ -1,0 +1,10 @@
+package com.wellsfargo.scdx.service;
+
+public class GreetServiceImpl implements GreetService {
+
+	public String greet(String userName) {
+		// TODO Auto-generated method stub
+		return "Hello" + userName;
+	}
+
+}

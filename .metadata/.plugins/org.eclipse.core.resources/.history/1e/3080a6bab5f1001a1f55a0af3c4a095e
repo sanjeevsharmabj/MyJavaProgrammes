@@ -1,0 +1,5 @@
+package com.wellsfargo.scdx.conf;
+
+public class Appconf {
+
+}

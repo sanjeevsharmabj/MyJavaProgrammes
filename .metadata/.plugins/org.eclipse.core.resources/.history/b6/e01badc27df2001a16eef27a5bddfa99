@@ -1,0 +1,5 @@
+package com.wellsfargo.swmd;
+
+public class BeanDefinitionConf {
+
+}

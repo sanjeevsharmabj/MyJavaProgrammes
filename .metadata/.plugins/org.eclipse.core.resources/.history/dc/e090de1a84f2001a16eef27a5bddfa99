@@ -1,0 +1,5 @@
+package com.wellsfargo.swmd2.controller;
+
+public class DashboarController {
+
+}

@@ -1,0 +1,5 @@
+package com.wellsfargo.scdx.service;
+
+public class GreetingProviderImpl implements GreetingProvider {
+
+}
